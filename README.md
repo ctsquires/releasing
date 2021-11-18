@@ -13,3 +13,4 @@ Test repository to learn the GitHub API.
 * Nail the exams
 * Fix issue where not sure what to do
 * Applied for the big boi jobs
+* Graduate with friends
