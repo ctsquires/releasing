@@ -7,3 +7,4 @@ Test repository to learn the GitHub API.
 * Managed to get my pants on
 * Bowl of cereal and a piece of fruit
 * Complete Crossword
+* Fix Study Patterns
