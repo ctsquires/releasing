@@ -8,3 +8,4 @@ Test repository to learn the GitHub API.
 * Bowl of cereal and a piece of fruit
 * Complete Crossword
 * Fix Study Patterns
+* Do the studying
